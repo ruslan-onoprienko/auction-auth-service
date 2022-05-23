@@ -1,0 +1,5 @@
+node_modules
+.serverless
+.idea
+secret.pem
+.DS_Store
